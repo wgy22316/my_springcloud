@@ -10,5 +10,10 @@
         <module name="user_provider" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka" target="1.8" />
+      <module name="my_springclound" target="1.8" />
+      <module name="user_provider" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
